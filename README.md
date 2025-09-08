@@ -6,7 +6,7 @@
 
 - **Cmder**: For project management and running commands.  
 - **uv**: To create the project and manage the virtual environment.  
-- **Python  
+- **Python**
 - **pip**: For package management.  
 - **pandas**: For data processing and analysis.  
 - **matplotlib**: For data visualization and plotting charts.  

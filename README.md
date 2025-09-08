@@ -1,4 +1,4 @@
-# Project1
+# Task 1
 
 **Project1** is a Python project set up using **Cmder** and **uv** to manage the virtual environment. The goal of the project is to use **pandas** and **matplotlib** for data analysis and visualization.  
 
@@ -19,3 +19,4 @@
 4. Read and analyze data from a CSV file.  
 5. Create a chart showing the distribution of customers by gender.  
 6. Manage the project using Git and push files to GitHub.  
+
